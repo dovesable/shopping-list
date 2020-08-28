@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>store_name</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="詳細">2c2cd16edb7e1010d7bb8a1848961922</screen>
+        <screen_data_item_table>x_442611_shopping_store</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 01:09:39</sys_created_on>
+        <sys_id>bc2cd16edb7e1010d7bb8a184896195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name</sys_name>
+        <sys_package display_value="Shopping List" source="x_442611_shopping">8e1a19aedbba1010d7bb8a18489619f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">8e1a19aedbba1010d7bb8a18489619f9</sys_scope>
+        <sys_update_name>sys_sg_screen_field_bc2cd16edb7e1010d7bb8a184896195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 01:09:39</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc2cd16edb7e1010d7bb8a184896195f"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>bc2cd16edb7e1010d7bb8a184896195f</documentkey>
+        <fieldname>description_text</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-26 01:09:39</sys_created_on>
+        <sys_id>0d2cd16edb7e1010d7bb8a1848961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-26 01:09:39</sys_updated_on>
+        <tablename>sys_sg_screen_field</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
